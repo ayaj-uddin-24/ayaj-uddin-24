@@ -1,4 +1,4 @@
-![Header](./github-header-image-name.png)
+![Header](./github-header-image.png)
 
 ### Hi there 👋, my name is Ayaj Uddin
 #### Front End Web Developer
