@@ -16,16 +16,15 @@ Skills: HTML / CSS / Bootstrap / Javascript / React JS / jQuery
 - 💬 Ask me about Front End Development
 - 📫 How to reach me: **ayajuddin2024@gamil.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://fb.com/ayaj uddin tanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayaj uddin tanif" height="30" width="40" /></a>
 <a href="https://instagram.com/ayaj_uddin_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayaj_uddin_24" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayajuddin2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayajuddin2024" height="30" width="40" /></a>
 </p>
 
-### 👨🏽‍💻 &nbsp; My Skills
+### 👨🏽‍💻 &nbsp; My Skills :
 
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -40,10 +39,9 @@ Skills: HTML / CSS / Bootstrap / Javascript / React JS / jQuery
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
 </div>
 
+### Others Contribution : 
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaj-uddin-24&show_icons=true&locale=en&layout=compact" alt="ayaj-uddin-24" /></p>
-
-
-###
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaj-uddin-24)](https://github.com/anuraghazra/github-readme-stats)
 
