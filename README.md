@@ -13,8 +13,6 @@ Skills: HTML / CSS / Bootstrap / Javascript / React JS / jQuery
 - 💬 Ask me about Front End Development
 - 📫 How to reach me: **ayajuddin2024@gamil.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ayaj-uddin-24)](https://github.com/ryo-ma/github-profile-trophy)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaj-uddin-24)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayaj-uddin-24&show_icons=true&count_private=true)  
