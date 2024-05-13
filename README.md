@@ -21,7 +21,7 @@ Skills: HTML / CSS / Bootstrap / Javascript / React JS / jQuery
 <a href="https://fb.com/ayaj uddin tanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayaj uddin tanif" height="30" width="40" /></a>
 <a href="https://instagram.com/ayaj_uddin_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayaj_uddin_24" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayajuddin2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayajuddin2024" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ayaj-uddin-4587342a8/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="ayajuddin2024" height="40" width="30" /></a>
+<a href="https://www.linkedin.com/in/ayaj-uddin-4587342a8/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="ayajuddin2024" height="30" width="30" /></a>
 </p>
 
 
