@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ayaj Uddin</h1>
-<h3 align="center">A passionate frontend web developer from Bangladesh</h3>
+<h3 align="center">A passionate full stack web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaj-uddin-24&label=Profile%20views&color=0e75b6&style=flat" alt="ayaj-uddin-24" /> </p>
 
@@ -9,8 +9,8 @@ Hi there, I'm Ayaj Uddin and a student of Computer Science and Technology. I'm i
 
 Skills: HTML / CSS / Bootstrap / Javascript / React JS / jQuery
 
-- 🔭 I’m currently working on Food E-commerce Website 
-- 🌱 I’m currently learning React JS 
+- 🔭 I’m currently working on E-commerce Website 
+- 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Internship 
 - 💬 Ask me about Front End Development
