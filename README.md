@@ -5,15 +5,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaj-uddin-24&label=Profile%20views&color=0e75b6&style=flat" alt="ayaj-uddin-24" /> </p>
 
 # About Me
-Hi there, I'm Ayaj Uddin and a student of Computer Science and Technology. I'm interested in IT sector. I'm a proficient full stack web developer with expertise in HTML, CSS, JavaScript, React, Bootstrap, MongoDB, Express, React, Node and more. With a keen eye for design and a strong grasp of user interface principles, I excel in creating visually stunning and highly functional websites. My skills in modern web development technologies allow me to build responsive and interactive interfaces that enhance user experiences. My dedication to staying abreast of industry trends ensures that his projects are not only visually appealing but also employ the latest advancements in front-end development.
+Hi there, I'm Ayaj Uddin and a student of Computer Science and Technology. I'm interested in IT sector. I'm a proficient full stack web developer with expertise in HTML, CSS, JavaScript, React, Bootstrap, MongoDB, Express, React, Node and more. With a keen eye for design and a strong grasp of user interface principles, I excel in creating visually stunning and highly functional websites. My skills in modern web development technologies allow me to build responsive and interactive interfaces that enhance user experiences. My dedication to staying abreast of industry trends ensures that his projects are not only visually appealing but also employ the latest advancements in full stack web development.
 
-Skills: HTML / CSS / Bootstrap / Javascript / React JS / Node JS / MongoDB / Express JS
+Skills: HTML / CSS / Bootstrap / Javascript / React JS / Node JS / MongoDB / Express JS / Next JS / TypeScript / Tailwind CSS
 
 - 🔭 I’m currently working on E-commerce Website 
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning full stack
 - 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Internship 
-- 💬 Ask me about Front End Development
+- 💬 Ask me about Full Stack Web Development
 - 📫 How to reach me: **ayajuddin2024@gamil.com**
 
 <h3 align="left">Connect with me :</h3>
