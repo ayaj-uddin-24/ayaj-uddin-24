@@ -1,54 +1,82 @@
-![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Ayaj Uddin</h1>
-<h3 align="center">A passionate full stack web developer from Bangladesh</h3>
+# Hi there, I'm Ayaj Uddin 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayaj-uddin-24&label=Profile%20views&color=0e75b6&style=flat" alt="ayaj-uddin-24" /> </p>
+[![Profile Views](https://komarev.com/ghpvc/?username=ayaj-uddin-24&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/ayaj-uddin-24)
 
-# About Me
-Hi there, I'm Ayaj Uddin and a student of Computer Science and Technology. I'm interested in IT sector. I'm a proficient full stack web developer with expertise in HTML, CSS, JavaScript, React, Bootstrap, MongoDB, Express, React, Node and more. With a keen eye for design and a strong grasp of user interface principles, I excel in creating visually stunning and highly functional websites. My skills in modern web development technologies allow me to build responsive and interactive interfaces that enhance user experiences. My dedication to staying abreast of industry trends ensures that his projects are not only visually appealing but also employ the latest advancements in full stack web development.
+## 🚀 Full Stack Web Developer | Computer Science Student
 
-Skills: HTML / CSS / Bootstrap / Javascript / React JS / Node JS / MongoDB / Express JS / Next JS / TypeScript / Tailwind CSS
+I'm a passionate full-stack web developer from Bangladesh, currently pursuing Computer Science and Technology. I specialize in building modern, responsive, and user-centric web applications using cutting-edge technologies.
 
-- 🔭 I’m currently working on E-commerce Website 
-- 🌱 I’m currently learning full stack
-- 👯 I’m looking to collaborate on GitHub 
-- 🤔 I’m looking for help with Internship 
-- 💬 Ask me about Full Stack Web Development
-- 📫 How to reach me: **ayajuddin2024@gamil.com**
+---
 
-<h3 align="left">Connect with me :</h3>
-<p align="left">
-<a href="https://fb.com/ayaj uddin tanif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayaj uddin tanif" height="30" width="40" /></a>
-<a href="https://instagram.com/ayaj_uddin_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayaj_uddin_24" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ayajuddin2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayajuddin2024" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ayaj-uddin-4587342a8/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="ayajuddin2024" height="30" width="30" /></a>
-</p>
+## 💼 About Me
 
+As a dedicated full-stack developer, I bring together design aesthetics and robust functionality to create seamless digital experiences. My expertise spans both frontend and backend development, enabling me to deliver complete, production-ready solutions. I'm committed to writing clean, maintainable code and staying current with the latest industry trends and best practices.
 
-### My Skills :
+### 🔍 Currently
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+- 🌱 Deepening my expertise in **Full Stack Development**
+- 👯 Open to collaborate on innovative **Open Source Projects**
+- 🤔 Actively seeking **Internship Opportunities**
+- 💬 Happy to discuss **Full Stack Web Development, React, Node.js, and MongoDB**
+
+---
+
+## 🛠️ Technical Skills
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-007ACC?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayaj-uddin-24&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-### Others Contribution : 
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayaj-uddin-24&show_icons=true&locale=en&layout=compact" alt="ayaj-uddin-24" /></p>
+## 🤝 Connect With Me
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaj-uddin-24)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayaj-uddin-4587342a8/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://fb.com/ayaj uddin tanif" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/ayaj_uddin_24" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.leetcode.com/ayajuddin2024" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="mailto:ayajuddin2024@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ayaj-uddin-24&show_icons=true&count_private=true)  
+---
+
+<p align="center">
+  <i>⚡ "Building the web, one commit at a time" ⚡</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
